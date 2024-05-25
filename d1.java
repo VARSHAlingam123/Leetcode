@@ -1,3 +1,5 @@
+
+//
 package Ds;
 import java.util.*;
 public class d1{
